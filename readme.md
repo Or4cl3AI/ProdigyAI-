@@ -28,7 +28,9 @@ To ensure an accurate evaluation of learners' knowledge and skills, ProdigyAI ut
 ProdigyAI fosters a sense of community among learners by incorporating social learning features. Learners can interact with peers, join study groups, and participate in collaborative projects. The platform also supports live discussion forums and group study sessions, promoting knowledge sharing and peer-to-peer learning.
 
 ## Security and Privacy
+
 ProdigyAI prioritizes the security and privacy of its users. The platform implements robust encryption and data protection measures to safeguard sensitive information. User data is anonymized and aggregated for research and improvement purposes, ensuring individual privacy is respected.
 
 ## Conclusion
+
 ProdigyAI is a cutting-edge AI-powered personalized learning platform that sets a new standard in education. By tailoring learning paths, offering interactive activities, providing real-time tutoring, and fostering a collaborative learning environment, ProdigyAI maximizes learners' potential and helps them achieve their educational goals. With ProdigyAI, learners embark on a transformative journey that empowers them with knowledge and skills for a brighter future.
